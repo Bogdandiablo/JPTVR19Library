@@ -4,10 +4,13 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR19Library/src/jptvr19library/App.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR19Library/src/tools/BookSaver.java</file>
             <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR19Library/src/entity/Book.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR19Library/src/tools/CreatorHistory.java</file>
             <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR19Library/src/entity/History.java</file>
-            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR19Library/src/jptvr19library/Main.java</file>
             <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR19Library/src/tools/CreatorReader.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR19Library/src/jptvr19library/Main.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR19Library/src/tools/ReadersStorage.java</file>
             <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR19Library/src/tools/CreatorBook.java</file>
             <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR19Library/src/entity/Reader.java</file>
         </group>
